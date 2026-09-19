@@ -1,4 +1,4 @@
-import streamlit as sttttt
+import streamlit as stttt
 import time
 
 from error_analyzer import error_analyzer
