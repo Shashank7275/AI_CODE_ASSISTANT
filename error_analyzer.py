@@ -7,7 +7,7 @@ load_dotenv()
 
 error_analyzer = Agent(
     name='Error Analyzer',
-    model=Gemini(id='gemini-2.5-flash'),
+    model=Gemini(id='gemini-3.5-flash-lite'),
     instructions=[
         "You are an expert software debugging and error-analysis agent.",
         "Analyze the user's code, error message, traceback, and surrounding context carefully.",
