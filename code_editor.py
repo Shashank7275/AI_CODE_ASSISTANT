@@ -7,7 +7,7 @@ load_dotenv()
 
 code_editor = Agent(
     name='Code Editor',
-    model=Gemini(id='gemini-2.5-flash'),
+    model=Gemini(id='gemini-3.5-flash-lite'),
     instructions=[
         "You are an expert software code repair agent.",
         "Fix the user's code using the Error Analyzer's analysis.",
