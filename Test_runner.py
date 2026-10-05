@@ -7,7 +7,7 @@ load_dotenv()
 
 test_runner = Agent(
     name='Test Runner',
-    model=Gemini(id='gemini-2.5-flash'),
+    model=Gemini(id='gemini-3.5-flash-lite'),
     instructions=[
         "You are an expert software testing agent.",
         "Analyze the actual execution result of the corrected code.",
