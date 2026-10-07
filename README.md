@@ -89,6 +89,7 @@ streamlit run app.py
 
 ## 🚀 How It Works
 
+
 1. Enter code or paste an error message.
 2. Submit the code for AI-powered error analysis.
 3. Review the suggested debugging solution and corrected code.
