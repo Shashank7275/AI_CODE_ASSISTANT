@@ -26,7 +26,7 @@ https://github.com/Shashank7275/AI_CODE_ASSISTANT
 ### AI Agentic Code Assistant
 
 <p align="center">
-  <img width="900" height="506" alt="Screenshot (320)" src="https://github.com/user-attachments/assets/43559407-e831-41cf-90db-eb4d1d56841c" />
+  <img width="800" height="450" alt="Screenshot (320)" src="https://github.com/user-attachments/assets/43559407-e831-41cf-90db-eb4d1d56841c" />
 
 </p>
 
