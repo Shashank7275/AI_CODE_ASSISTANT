@@ -26,7 +26,8 @@ https://github.com/Shashank7275/AI_CODE_ASSISTANT
 ### AI Agentic Code Assistant
 
 <p align="center">
-  <img width="900" height="506" alt="AI Agentic Code Assistant" src="./assets/Screenshot-320.png" />
+  <img width="900" height="506" alt="Screenshot (320)" src="https://github.com/user-attachments/assets/43559407-e831-41cf-90db-eb4d1d56841c" />
+
 </p>
 
 > The application provides an AI-powered workflow for analyzing code, debugging errors, executing code, testing results, and generating corrections.
